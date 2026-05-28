@@ -1,3 +1,4 @@
+// Login page - autenticación simulada con LocalStorage
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { saveSession, getSession } from '../utils/auth'
