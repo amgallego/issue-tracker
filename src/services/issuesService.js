@@ -1,3 +1,4 @@
+// Servicio de comunicación con MockAPI
 import axios from 'axios'
 
 const API_URL = 'https://6a17914e1878294b597b9a1b.mockapi.io/api/issues'
