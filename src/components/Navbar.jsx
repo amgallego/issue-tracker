@@ -1,3 +1,4 @@
+// Navbar con sesión activa y botón de cierre
 import { useNavigate } from 'react-router-dom'
 import { clearSession, getSession } from '../utils/auth'
 
