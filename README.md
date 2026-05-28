@@ -24,7 +24,7 @@ Entidad `issue`: `id`, `titulo`, `descripcion`, `estado` (Pendiente / En Progres
 
 ```bash
 # 1. Clonar el repositorio
-git clone
+git clone https://github.com/amgallego/issue-tracker.git
 
 # 2. Instalar dependencias
 npm install
