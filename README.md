@@ -34,7 +34,7 @@ npm run dev
 ```
 ## Despliegue
 
-[Ver aplicación en producción]("https://issue-tracker-coral-one.vercel.app/login")
+[IssueTrack — Gestor de Incidencias](https://issue-tracker-coral-one.vercel.app/login)
 
 ## Estructura del proyecto
 
